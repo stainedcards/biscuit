@@ -1,0 +1,22 @@
+body {
+    background-color: lavender;
+    font-size: 12pt;
+}
+
+h1 {
+    font-size: 36pt;
+}
+
+.content {
+   padding: 2em; 
+}
+
+.button {
+    text-decoration-style: none;
+    background-color: #A99EDE;
+    display: inline-block;
+    padding: 1em;
+    border-radius: 10%;
+    box-shadow: #6985FA;
+    font-size: 18px;
+}
